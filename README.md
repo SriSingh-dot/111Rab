@@ -1,3 +1,5 @@
+📌 Project Description
+
 The website is about rabbits – their nature, care, and the precautions needed to keep them as pets.
 It uses:
 
@@ -20,6 +22,3 @@ Table of extra care tips (expanded horizontally across the page).
 Background with optional rabbit patterns.
 
 Centered text, pink borders, and playful fonts.
-
-[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
-
